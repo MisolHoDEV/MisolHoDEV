@@ -1,6 +1,5 @@
-<DOCTYPE html!>
 <html>
- <body style="bakground-color:powderblue;">
+ <body style="background-color:powderblue;">
 
  <h1>👋 Hi, I’m MisolHo</h1>
 
