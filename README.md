@@ -1,4 +1,4 @@
--                                                                                                           👋 Hi, I’m MisolHo
+ 👋 Hi, I’m MisolHo
 -
 -
 - 👀 My dream is to become a programmer
